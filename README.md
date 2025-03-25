@@ -1,8 +1,6 @@
-## Call-Center_Data-Report
+# Call-Center_Data-Report
 
- [CallCenter Data Analysis.twbx](Callcenter Data Analysis.png)
-
- ## Project Description
+  ## Project Description
 
  This project involved creating an interactive Tableau dashboard to visualize and analyze call center data. The key goals were to:
 
@@ -21,6 +19,5 @@ Key visualizations include:
 - Call center volume and performance by location
 - Channel analysis comparing call center, email, chat, and web
 
- ![CallCenter_Data Analysis](https://github.com/swaapnaa/TABLEAU-PROJECTS/assets/149737403/bb7c3dfc-9b86-4f96-9e41-b6212e546aa7)
 
 Kushal Bhatt
